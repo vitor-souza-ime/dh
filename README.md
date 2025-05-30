@@ -1,4 +1,5 @@
 2DOF Robotic Arm Simulation
+
 Overview
 This Python script simulates a 2-degree-of-freedom (2DOF) robotic arm and visualizes its configuration in a 3D plot. The arm consists of two links with lengths a1 and a2, and two joint angles θ1 (base rotation) and θ2 (elbow angle). The script calculates the end-effector position using forward kinematics and plots the arm's configuration using Matplotlib's 3D plotting capabilities.
 Requirements
